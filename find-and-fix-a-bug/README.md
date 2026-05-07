@@ -16,16 +16,16 @@ You are building an AI-powered assistant that helps developers analyze, debug, a
   * You should be able to explain what differences the changes to the code make.
   * Be sure to check that every change suggested is actually needed and take confirmations
   * The skill should return structured JSON like:
-
+```
     {
       "issues": [],
       "fixed_code": "",
       "explanation": ""
     }
-
+```
       e.g.
       Output format (JSON)
-
+```
       {
         "bugs": [
           {
@@ -38,6 +38,8 @@ You are building an AI-powered assistant that helps developers analyze, debug, a
         "fixed_code": "...",
         "explanation": "..."
       }
+```
+
 * You should add the Constraints such as,
     * Do NOT change functionality unless fixing a bug
     * Explanations must reference actual code patterns
@@ -70,7 +72,7 @@ You can create an agent that
 * Calls the appropriate skill
 * Returns a structured response in the specified Output Format
 
-As a BA,
+## As a BA,
 * define skill purpose
 * define the Validation rules if required
 * detect functional risks/bugs
