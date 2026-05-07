@@ -61,10 +61,10 @@ Your application can score up to 1000 points!
 
 ## Mark Scheme
 Your instructors will be looking for the following:
-- Defining business goals, workflows, rules, and acceptance criteria
-- Identifying edge cases, risks, compliance, or operational constraints
-- Designing prompts, inputs, or validation scenarios for the Skill/Agent
-- Validating whether generated outputs preserve expected business behavior
+ * 200 points - Defining business goals, workflows, rules, and acceptance criteria
+ * 200 points - Identifying edge cases, risks, compliance, or operational constraints
+ * 200 points - Designing prompts, inputs, or validation scenarios for the Skill/Agent
+ * 400 points -  Validating whether generated outputs preserve expected business behavior
 
 
 
