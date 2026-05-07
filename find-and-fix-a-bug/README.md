@@ -23,8 +23,7 @@ You are building an AI-powered assistant that helps developers analyze, debug, a
       "explanation": ""
     }
 ```
-      e.g.
-      Output format (JSON)
+      e.g. Output format (JSON)
 ```
       {
         "bugs": [
