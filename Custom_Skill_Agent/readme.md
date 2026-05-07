@@ -35,31 +35,31 @@ In this final challenge, you have been tasked with creating a custom agent, skil
 - Practical adoption potential within engineering teams
 - Innovation and productivity improvement
 
-## Deliverables
-# You will submit:
+# Deliverables
+## You will submit:
 Problem Description answering questions like What problem are you solving, Who benefits from it, Why is it important etc
 
-# Skill or Agent Design
+## Skill or Agent Design
   - Name
   - Type (Skill / Agent)
   - Inputs
   - Outputs
   - Workflow (for agents)
 
-# Implementation
+## Implementation
   - skill.md or agent.md
   - Prompt instructions
   - Output format
 
-# Example Usage
+## Example Usage
   - Sample input
   - Expected output
 
 
-## Points
+# Points
 Your application can score up to 1000 points!
 
-## Mark Scheme
+# Mark Scheme
 Your instructors will be looking for the following:
 - Defining business goals, workflows, rules, and acceptance criteria
 - Identifying edge cases, risks, compliance, or operational constraints
