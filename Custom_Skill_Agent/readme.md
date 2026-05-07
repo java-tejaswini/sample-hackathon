@@ -35,7 +35,7 @@ In this final challenge, you have been tasked with creating a custom agent, skil
 - Practical adoption potential within engineering teams
 - Innovation and productivity improvement
 
-## Mark Scheme
+## Marking Scheme
 Your instructors will be looking for the following:
 - Defining business goals, workflows, rules, and acceptance criteria
 - Identifying edge cases, risks, compliance, or operational constraints
