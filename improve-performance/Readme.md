@@ -24,11 +24,12 @@ Using Skill Analyze the code and:
 
 ## Expected output format
 * The skill should return structured like:
-
+```
     ## The performance bottlenecks are,
     ## The resons of impacting the performance,
     ## Suggestions to optimize the code, 
     ## Estimate performance improvements are
+```
 
 ## Notes
 * **You must not alter the bit length** of the BigIntegers being generated - the security application requires this to be set to 2000.
@@ -55,7 +56,7 @@ You can create an agent that
 * Returns a structured response in the specified Output Format
 
 
-As a BA,
+## As a BA,
 * Define Performance Expectations
 * Provide Business Requirement such as generation time, support for batch requests other performance parameters
 * Suggest Optimization Recommendations
