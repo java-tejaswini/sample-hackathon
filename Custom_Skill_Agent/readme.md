@@ -14,15 +14,6 @@ In this final challenge, you have been tasked with creating a custom agent, skil
 
 
 
-
-## Mark Scheme
-Your instructors will be looking for the following:
-- Defining business goals, workflows, rules, and acceptance criteria
-- Identifying edge cases, risks, compliance, or operational constraints
-- Designing prompts, inputs, or validation scenarios for the Skill/Agent
-- Validating whether generated outputs preserve expected business behavior
-
-
 # Business impact and usability
 - Quality of BA + Developer collaboration
 - Reasoning and intelligence of the Skill/Agent
@@ -43,6 +34,13 @@ Your instructors will be looking for the following:
 - Accuracy and traceability of outputs
 - Practical adoption potential within engineering teams
 - Innovation and productivity improvement
+
+## Mark Scheme
+Your instructors will be looking for the following:
+- Defining business goals, workflows, rules, and acceptance criteria
+- Identifying edge cases, risks, compliance, or operational constraints
+- Designing prompts, inputs, or validation scenarios for the Skill/Agent
+- Validating whether generated outputs preserve expected business behavior
 
 
 ## Points
