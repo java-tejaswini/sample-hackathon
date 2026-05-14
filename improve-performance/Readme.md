@@ -1,4 +1,4 @@
-# Improve performance Challenge with "Performance Analyzer Skill"
+# Improve performance with "Performance Analyzer Skill"
 
 ## Introduction
 
@@ -10,17 +10,17 @@ The challenge is to improve the performance of the **PrimeGenerator** class. The
 As you work through the challenge you may ask the GenAI tools to keep optimising a number of times - at each point keep a record of how long the process takes so that you can be sure each optimisation is a genuine improvement on the last. 
 
 ## Objectives
-Using Skill Analyze the code and:
-    Identify performance bottlenecks
-    Explain why they impact performance
-    Suggest optimized implementation
-    Estimate performance improvements
+* The Skill should Analyze the code
+* The SKill should identify performance bottlenecks
+* The Skill should explain why they impact performance
+* The should suggest optimized implementation
+* The skill should estimate performance improvements
 
 ## Constraints
-    * Do NOT change the functionality (must still return prime numbers)
-    * Do NOT reduce the prime size (must remain 2000-bit)
-    * Focus on performance, not style
-    * Be specific—avoid generic suggestions like “optimize loop”
+* Do NOT change the functionality (must still return prime numbers)
+* Do NOT reduce the prime size (must remain 2000-bit)
+* Focus on performance, not style
+* Be specific—avoid generic suggestions like “optimize loop”
 
 ## Expected output format
 * The skill should return structured like:
@@ -37,26 +37,25 @@ Using Skill Analyze the code and:
 
 
 ## Points
-This challenge is worth up to 200 points
+This challenge is worth up to 300 points
 
-## Mark Scheme
+### Mark Scheme
 
 * 100 points - you have successfully solved the problem
 * 100 points - you can explain to your instructor to their satisfaction what the problem was and why the solution works
 
-## Bonus Points
+### Bonus Points
 
 * 100 points - Create an Agent
 
-You can create an agent that
+You can create an agent that 
 * Decides whether the issue is:
    * logical bug
    * performance problem
 * Calls the appropriate skill
 * Returns a structured response in the specified Output Format
 
-
-## As a BA,
+### As Bussiness Analyst,
 * Define Performance Expectations
 * Provide Business Requirement such as generation time, support for batch requests other performance parameters
 * Suggest Optimization Recommendations
