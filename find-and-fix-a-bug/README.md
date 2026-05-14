@@ -10,10 +10,11 @@ The class was written using Test driven development techniques, however there is
 ## The challenge
 You are building an AI-powered assistant that helps developers analyze, debug, and optimize Java code while preserving publishing-standard compliance and improving maintainability
 
+## Objectives
 * Write a Skill using which,
   * You should be able to explain why the code isn't working. 
   * You should be able to find out what is wrong with the code and fix it.
-  * You should be able to explain what differences the changes to the code make.
+  * You should be able to explain the changes made in the code.
   * Be sure to check that every change suggested is actually needed and take confirmations
   * The skill should return structured JSON like:
 ```
@@ -39,8 +40,9 @@ You are building an AI-powered assistant that helps developers analyze, debug, a
       }
 ```
 
+## Constraints
 * You should add the Constraints such as,
-    * Do NOT change functionality unless fixing a bug
+    * **DO NOT** change functionality unless fixing a bug
     * Explanations must reference actual code patterns
     * Avoid generic advice like “improve performance”
     * Be specific and actionable
@@ -51,9 +53,9 @@ You are building an AI-powered assistant that helps developers analyze, debug, a
 
 
 ## Points
-This exercise is worth up to 200 points.
+This exercise is worth up to 300 points.
 
-## Mark Scheme
+### Mark Scheme
 
 * 50 points - finding the bug!
 * 50 points - fixing the bug!
@@ -71,7 +73,7 @@ You can create an agent that
 * Calls the appropriate skill
 * Returns a structured response in the specified Output Format
 
-## As a BA,
+### As Bussiness Analyst,
 * define skill purpose
 * define the Validation rules if required
 * detect functional risks/bugs
