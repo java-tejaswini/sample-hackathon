@@ -1,98 +1,71 @@
-# Welcome to the Neueda Generative AI JAM Session
+# Final Challenge
 
-![Alt text](./images/genaijam.png)
+In this final challenge, you have been tasked with creating a custom agent and a skill !!!
 
-## Introduction
-In this JAM session, we will explore the exciting world of Generative AI and its
-applications. In this session, we will be focusing on the use of Gen AI in the world of 
-building, testing, and deploying applications.
+## Create a novel Copilot Skill and Agent that:
 
-Your session today will comprise of a series of challenges that will address different capabilities of Generative AI.
-
-Your instructor will guide you through the challenges and provide you with the necessary resources and support to complete them successfully.
-
-Each challenge can be found in a subfolder in the this Git repository.
-
-## Pre-requisites
-In order to complete this session, you will need to have the following:
-
-- The ability to clone this repository to the machine you are using for the JAM session
-- The ability to install and run different tools and applications (if you are using one of our VMs, then these will be pre-installed)
-- Access to Developer centric GenAI tool such as Github CoPilot, SourceGraph Cody, or Amazon Q. 
-
-## Setting up your Environment
-You have received a Prerequisite document. Follow the instruction to setup your system and install the required Python, Angular, Java etc on your system. Also follow the instructions to set up the IDE.
-
-## Project Teams - Playing to win or playing to learn?
-
-![Alt text](images/winning.jpeg)
-
-You will be placed into groups of 3-4 people. This will be done relatively quickly, so please be prepared to work with people you don't know. Points will be awarded for each challenge that you complete. You can decide as a project team whether you want to work to win, or work to learn. You will learn either way, but your approach to the session will be different if you are just trying to win, vs, wanting to just learn together. There is no right or wrong approach, just different approaches. You will need to decide as a team which approach you want to take.
-
-## Structure of the Day
-
-Your instructor will guide you through the challenges and provide you with the necessary resources and support to complete them successfully. However, for those of you who would appreciate a heads up, the rough plan will be as follows:
-
-Morning Session:
-
-* Introduction to the session
-* Overview of the tools and the capabilities that they have
-* Some hands on to get familiar with the tools
-
-Break for lunch
-
-* Introduction to the the challenges
-* Break out into teams for the first set of challenges
-
-Afternoon Session:
-
-* The final challenge
-* Scores will be calculated and announced
-* Prizes (if you're lucky!) will be given out!
-
-Note that your instructor may change this schedule based on the needs of the group. So please don't hold them to it!
-
-## JAM Session
-
-### Challenge 1 - [No Readme](challenges/no-readme/readme.md)
-This challenge involves an application that has no readme file. Your task is to create a suitable readme file for the application.
-
-**100 points**
-
-### Challenge 2 - [No Tests](challenges/no-tests/readme.md)
-This challenge involves the same app as challenge 1. There are no tests however, so your challenge is to create a suitable set of unit tests for the application. Do not go beyond unit tests.
-
-**400 points**
-
-### Challenge 3 - [Find and Fix a Bug](challenges/find-and-fix-a-bug/README.md)
-This application has a bug in it. Your task is to find the bug and fix it using Skill!
-
-**200 points**
-
-### Challenge 4 - [Upgrade Required](challenges/upgrade-required/readme.md)
-This application was last touched in 2021 and is using an old version of the software. Can you upgrade it to the latest version?
-
-**400 points**
-
-### Challenge 5 - [Improve Performance](challenges/improve-performance/Readme.md)
-This application is slow and inefficient. Your task is to improve the performance of the application using skill.
-
-**200 points**
-
-### Challenge 6 - [Fix an Unresponsive Website](challenges/fix-an-unresponsive-website/README.md)
-This is a problematic React application. It has a dodgy menu option. Can you sort it out?
-
-**300 points**
-
-### Challenge 7 - [Upgrade Required](challenges/upgrade-required/readme.md)
-This is an old Perl app that needs to be upgraded to Python. Can you take on the challenge with the help of AI?
-
-**500 points**
-
-## Afternoon JAM Session
+* Solves a real-world business and development workflow problem
+* Demonstrates collaboration between Business Analysts and Developers
+* Converts business requirements, rules, or workflows into actionable engineering outcomes
+* Provide clear, traceable, and actionable outputs for both technical and business stakeholders
+* Demonstrates reasoning beyond simple code generation, such as validation, analysis, optimization, migration, risk identification, or decision support
+* Preserve and validate business intent while improving implementation quality
+* Your ides Can be realistically adopted within your team’s delivery lifecycle
 
 
-### Challenge 8 - I need an Agent and a Skill
-This is the final challenge of the day. In this challenge you will create an angent and a skill to perform some task!
 
-**1000 points**
+## Business impact and usability
+- Reasoning and intelligence of the Skill/Agent
+- Accuracy and traceability of outputs
+- Practical adoption potential within engineering teams
+- Innovation and productivity improvement
+
+## Developers should contribute by:
+- Implementing the Skill/Agent logic and integrations
+- Building automation, analysis, refactoring, testing, or orchestration capabilities
+- Integrating Copilot Agent Mode, Skills, APIs, or tooling into the workflow
+- Ensuring technical correctness, scalability, and usability
+
+## Judging Criteria
+- Business impact and usability
+- Reasoning and intelligence of the Skill/Agent
+- Accuracy and traceability of outputs
+- Practical adoption potential within engineering teams
+- Innovation and productivity improvement
+- Quality of Bussiness Analyst and Developer collaboration
+
+## Deliverables
+### You will submit:
+Problem Description answering questions like What problem are you solving, Who benefits from it, Why is it important etc
+
+### Skill and Agent Design
+  - Name
+  - Type (Skill / Agent)
+  - Inputs
+  - Outputs
+  - Workflow (for agents)
+
+### Implementation
+  - skill.md or agent.md
+  - Prompt instructions if any
+  - Output format
+
+### Example Usage
+  - Sample input
+  - Expected output
+
+
+## Points
+Your application can score up to 1000 points!
+
+## Mark Scheme
+Your instructors will be looking for the following:
+ * 200 points - Defining business goals, workflows, rules, and acceptance criteria
+ * 200 points - Identifying edge cases, risks, compliance, or operational constraints
+ * 200 points - Designing prompts, inputs, or validation scenarios for the Skill/Agent
+ * 400 points -  Validating whether generated outputs preserve expected business behavior
+
+
+
+
+
